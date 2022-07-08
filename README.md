@@ -2,7 +2,7 @@
 ## The project is done with Selenium WebDriver
 
 ## Installation
-* If you have already installed Git to clone the project git@github.com:damasia/ProjectDemo.git otherwise download the zip File
+* If you have already installed Git to clone the project git@github.com:damasia/ProjectDemo.git otherwise download the ZIP File
 
 * Install latest Google Chrome Browser
 
