@@ -2,24 +2,24 @@
 ## This project uses the Selenium WebDriver
 
 ## Installation
-* If you have already installed Git to clone the project git@github.com:damasia/ProjectDemo.git otherwise download the ZIP File
+* If you have already installed Git you can clone the project at [https://github.com/damasia/ProjectDemo](https://github.com/damasia/ProjectDemo) (or download the ZIP File).
 
-* Install latest Google Chrome Browser
+* Install the latest Google Chrome Browser
 
-* Install latest Java JDK, I had installed one version before, Java 17 (for Windows is required to set env_var JAVA_HOME)
+* Install the latest Java JDK. However you can use a previous more stable version (I used Java 17).
 
-* Install latest Eclipse IDE For Java Developers - https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers
+* Install the latest [Eclipse IDE For Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
 
-## Execute the project
+## Run the project
 
 * Open Eclipse 
 
-* Go File -> Import -> Maven -> Existing Maven Projects -> Browse (click the folder where you have the project)
+* Go to File -> Import -> Maven -> Existing Maven Projects -> Browse (point to the location where you cloned the project)
 
-* Open the Package Explorer
+* Go to the Package Explorer
 
-* Go Project -> Clean (Build Automatically must be checked)
+* Go to Project -> Clean (Build Automatically must be checked)
 
-* Find into the folder src/test/java the class com.project.demo.GoogleSearchTest.java
+* Locate the folder src/test/java and select the class com.project.demo.GoogleSearchTest.java
 
 * Right Click on the class com.project.demo.GoogleSearchTest.java and click RUN AS -> JUnit Test
