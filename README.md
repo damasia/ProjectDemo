@@ -6,7 +6,7 @@
 
 * Install the latest Google Chrome Browser
 
-* Install the latest Java JDK. However you can use a previous more stable version (I used Java 17).
+* Install the latest [Java JDK](https://www.oracle.com/java/technologies/downloads/). However you can use a previous more stable version (I used Java 17).
 
 * Install the latest [Eclipse IDE For Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
 
