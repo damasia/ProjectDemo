@@ -23,3 +23,5 @@
 * Locate the folder src/test/java and select the class com.project.demo.GoogleSearchTest.java
 
 * Right Click on the class com.project.demo.GoogleSearchTest.java and click RUN AS -> JUnit Test
+
+* To change the search go to the class com.project.demo.GoogleSearchTest.java and change the value of the constant SEARCH
