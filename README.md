@@ -1,5 +1,5 @@
 # ProjectDemo 
-## The project is done with Selenium WebDriver
+## This project uses the Selenium WebDriver
 
 ## Installation
 * If you have already installed Git to clone the project git@github.com:damasia/ProjectDemo.git otherwise download the ZIP File
