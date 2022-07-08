@@ -1,4 +1,5 @@
-# ProjectDemo
+# ProjectDemo 
+## The project is done with Selenium WebDriver
 
 ## Installation
 * If you have already installed Git to clone the project from GitHub url...
