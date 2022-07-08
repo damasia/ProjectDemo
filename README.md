@@ -16,9 +16,9 @@
 
 * Go to File -> Import -> Maven -> Existing Maven Projects -> Browse (point to the location where you cloned the project)
 
-* Go to the Package Explorer
-
 * Go to Project -> Clean (Build Automatically must be checked)
+
+* Go to the Package Explorer
 
 * Locate the folder src/test/java and select the class com.project.demo.GoogleSearchTest.java
 
